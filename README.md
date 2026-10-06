@@ -1,8 +1,8 @@
 # t1-taller — Tema 1, Taller 1: Reserva de aulas
 
 Esqueleto del **Taller 1** de *Programación Avanzada (22354)*, Grado en Ingeniería Telemática,
-UIB-EPS. El enunciado está en la
-[página del taller](https://uib-22354-programacion-avanzada.github.io/website/); aquí tienes el
+UIB-EPS. El enunciado está en el
+[Aula Digital](https://ad.uib.es/estudis2627/mod/assign/view.php?id=331979); aquí tienes el
 código sobre el que trabajar.
 
 Es un proyecto **Maven** para **Java 25** con pruebas en **JUnit 5**, preparado para **GitHub
@@ -95,14 +95,13 @@ mvn -q compile                     # solo compilar
 
 ## Integridad académica
 
-El taller se realiza **en el aula y sin asistentes de IA**, según las condiciones de uso de la IA
+El taller se resuelve **en el aula y se permiten asistentes de IA**, según las condiciones de uso de la IA
 de la [guía docente](https://uib-22354-programacion-avanzada.github.io/website/es/informaciones/guia-docente.html).
-El material de partida de los ejercicios del tema es la preparación de este taller; aquí no hay
-asistente que valga.
+El material de los ejercicios del tema es la preparación de este taller.
 
 ## Licencia
 
-El material de partida se publica bajo licencia [MIT](LICENSE) — copyright © 2026 Alejandro
+El proyecto se publica bajo licencia [MIT](LICENSE) — copyright © 2026 Alejandro
 Mesejo. **Las soluciones que escribas son tuyas.** Los enunciados y el resto del material docente
 están en el
 [sitio web de la asignatura](https://uib-22354-programacion-avanzada.github.io/website/), bajo
